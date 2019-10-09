@@ -5,6 +5,7 @@ int main()
 	int n;
 	cin>>n;
 	int cnt=0;
+	//cnt counter
 	while (n>=1)
 	{
 		if(n>=5)
@@ -34,4 +35,5 @@ int main()
 		}
 	}
 	cout<<cnt;
+	//output
 }
