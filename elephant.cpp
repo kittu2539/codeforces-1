@@ -9,7 +9,7 @@ int main()
 	{
 		if(n>=5)
 		{
-			n=n-5;
+			n=n-5; // nice problem
 			cnt=cnt+1;
 		}
 		else if (n==4)
